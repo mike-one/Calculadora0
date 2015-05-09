@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="FondoPrincipal">#ff2abeff</color>
+    <color name="letrasCaratula">#fffcfeff</color>
+    <color name="colorPrimerFondo">#ffff91c2</color>
+    <color name="letrasVista1">#ff000000</color>
+</resources>

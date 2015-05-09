@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora0</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="materia">Redes de Datos</string>
+    <string name="alumnos">Alumnos</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="Mike">Acosta Ventura Miguel</string>
+    <string name="Alvin">Del Valle Benitez José Alberto</string>
+    <string name="Krys">Morales Olivares Cristian</string>
+    <string name="peticionIP">Ingresa la IP</string>
+    <string name="Ip">IP</string>
+    <string name="numIp">192.168.255.255</string>
+    <string name="atras">Back</string>
+    <string name="siguiente">Next</string>
+
+</resources>
